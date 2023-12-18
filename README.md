@@ -1,8 +1,14 @@
-This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
+# CurrencyCove
+
+<img src="https://github.com/AbdullahJaspal/CurrencyCove/assets/77833394/8e67ea3a-543b-4594-991e-6f0f06421073" width="200" height="400">
+<img src="https://github.com/AbdullahJaspal/CurrencyCove/assets/77833394/553eb3c8-57fb-4411-8c8e-fdfe2b092306" width="200" height="400">
+<img src="https://github.com/AbdullahJaspal/CurrencyCove/assets/77833394/214e2621-1909-46f3-904e-ba38604b1504" width="200" height="400">
+<img src="https://github.com/AbdullahJaspal/CurrencyCove/assets/77833394/e8479f3d-ec08-4d01-aa71-7957579c1c74" width="200" height="400">
+<img src="https://github.com/AbdullahJaspal/CurrencyCove/assets/77833394/e768ae4a-e77b-4554-ae2b-1ed3fecf929c" width="200" height="400">
 
 # Getting Started
 
->**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
+> **Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
 
 ## Step 1: Start the Metro Server
 
