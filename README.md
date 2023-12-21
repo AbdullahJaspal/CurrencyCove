@@ -1,85 +1,33 @@
-# CurrencyCove
+# Project Info
+
+Introducing CurrencyCove, the ultimate currency converter at your fingertips! Whether you're a globetrotter, a savvy investor, or simply curious about exchange rates, CurrencyCove has got you covered. With its sleek and user-friendly interface, effortlessly convert currencies from around the world with real-time rates.
+
+## Running locally
+
+Make sure you have all the necessary dependencies installed on your system:
+
+- Node.js
+- Ruby
+- Xcode
+- CocoaPods
+- Android Studio and all Java dependencies.
+
+You can follow the instructions on the React Native docs to set up your local environment: https://reactnative.dev/docs/environment-setup
+
+To run the project locally:
+
+- Clone the repo
+- Install the dependencies with `npm install`
+- Run `cd ios && pod install && cd ..` to install all iOS dependencies
+- Run the dev server with `npx react-native start`
+- Build and Run the app with `npx react-native run-ios` for the iOS version or `npx react-native run-android` for the Android version
+
+If you have problems with any of the instructions above, please refer to the React Native docs. This is a newly created app and the latest instructions there should help you get your environment up and running without issues.
+
+# CurrencyCove Preview
 
 <img src="https://github.com/AbdullahJaspal/CurrencyCove/assets/77833394/8e67ea3a-543b-4594-991e-6f0f06421073" width="200" height="400">
 <img src="https://github.com/AbdullahJaspal/CurrencyCove/assets/77833394/553eb3c8-57fb-4411-8c8e-fdfe2b092306" width="200" height="400">
 <img src="https://github.com/AbdullahJaspal/CurrencyCove/assets/77833394/214e2621-1909-46f3-904e-ba38604b1504" width="200" height="400">
 <img src="https://github.com/AbdullahJaspal/CurrencyCove/assets/77833394/e8479f3d-ec08-4d01-aa71-7957579c1c74" width="200" height="400">
 <img src="https://github.com/AbdullahJaspal/CurrencyCove/assets/77833394/e768ae4a-e77b-4554-ae2b-1ed3fecf929c" width="200" height="400">
-
-# Getting Started
-
-> **Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
-
-## Step 1: Start the Metro Server
-
-First, you will need to start **Metro**, the JavaScript _bundler_ that ships _with_ React Native.
-
-To start Metro, run the following command from the _root_ of your React Native project:
-
-```bash
-# using npm
-npm start
-
-# OR using Yarn
-yarn start
-```
-
-## Step 2: Start your Application
-
-Let Metro Bundler run in its _own_ terminal. Open a _new_ terminal from the _root_ of your React Native project. Run the following command to start your _Android_ or _iOS_ app:
-
-### For Android
-
-```bash
-# using npm
-npm run android
-
-# OR using Yarn
-yarn android
-```
-
-### For iOS
-
-```bash
-# using npm
-npm run ios
-
-# OR using Yarn
-yarn ios
-```
-
-If everything is set up _correctly_, you should see your new app running in your _Android Emulator_ or _iOS Simulator_ shortly provided you have set up your emulator/simulator correctly.
-
-This is one way to run your app — you can also run it directly from within Android Studio and Xcode respectively.
-
-## Step 3: Modifying your App
-
-Now that you have successfully run the app, let's modify it.
-
-1. Open `App.tsx` in your text editor of choice and edit some lines.
-2. For **Android**: Press the <kbd>R</kbd> key twice or select **"Reload"** from the **Developer Menu** (<kbd>Ctrl</kbd> + <kbd>M</kbd> (on Window and Linux) or <kbd>Cmd ⌘</kbd> + <kbd>M</kbd> (on macOS)) to see your changes!
-
-   For **iOS**: Hit <kbd>Cmd ⌘</kbd> + <kbd>R</kbd> in your iOS Simulator to reload the app and see your changes!
-
-## Congratulations! :tada:
-
-You've successfully run and modified your React Native App. :partying_face:
-
-### Now what?
-
-- If you want to add this new React Native code to an existing application, check out the [Integration guide](https://reactnative.dev/docs/integration-with-existing-apps).
-- If you're curious to learn more about React Native, check out the [Introduction to React Native](https://reactnative.dev/docs/getting-started).
-
-# Troubleshooting
-
-If you can't get this to work, see the [Troubleshooting](https://reactnative.dev/docs/troubleshooting) page.
-
-# Learn More
-
-To learn more about React Native, take a look at the following resources:
-
-- [React Native Website](https://reactnative.dev) - learn more about React Native.
-- [Getting Started](https://reactnative.dev/docs/environment-setup) - an **overview** of React Native and how setup your environment.
-- [Learn the Basics](https://reactnative.dev/docs/getting-started) - a **guided tour** of the React Native **basics**.
-- [Blog](https://reactnative.dev/blog) - read the latest official React Native **Blog** posts.
-- [`@facebook/react-native`](https://github.com/facebook/react-native) - the Open Source; GitHub **repository** for React Native.
